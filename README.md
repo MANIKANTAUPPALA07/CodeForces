@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 10 |
+| 7 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [dp](#dp) (2)
@@ -24,6 +25,12 @@
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/MANIKANTAUPPALA07/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
 ### bitmasks
 
